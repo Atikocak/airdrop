@@ -3,7 +3,7 @@
 **Success! Check out your TX here:**
 [View Transaction](https://explorer.solana.com/tx/5LMSV2N4KQ6VbjZDw9j4gWwRuq4ReXW6yL7n7PdSgaaZdiWmKT8LWTjCehveL1aZpF32LsHu8oij1RjWSZbYNLVF?cluster=devnet)
 
-<img src="./assets/Bridge_to_Turbin3.jpg" alt="Turbin3 Program Logo" title="Bridge to Turbin3" style="width:400px;" />
+<a href="https://www.risein.com/bootcamps/bridge-to-turbin3"><img src="./assets/Bridge_to_Turbin3.jpg" alt="Turbin3 Program Logo" title="Bridge to Turbin3" style="width:400px;" /></a>
 
 Welcome to the **Bridge to Turbin3** bootcamp, your gateway to becoming a proficient web3 developer on the Solana blockchain. This course is designed to equip you with the foundational knowledge and practical skills needed to navigate the evolving landscape of decentralized applications (dApps).
 
