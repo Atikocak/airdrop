@@ -11,9 +11,11 @@
   },
   "packageManager": "yarn@4.2.2",
   "dependencies": {
-    "@solana/web3.js": "^1.94.0",
+    "@coral-xyz/anchor": "0.30.0",
+    "@solana/web3.js": "1.91.8",
     "@types/node": "^20.14.9",
     "bs58": "^6.0.0",
+    "rpc-websockets": "7.11.0",
     "typescript": "^5.5.2"
   },
   "devDependencies": {

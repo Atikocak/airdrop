@@ -18,3 +18,6 @@ node_modules/
 # Wallet secret key
 dev-wallet.json
 second-wallet.json
+
+# Assets
+assets

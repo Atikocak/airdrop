@@ -16,7 +16,7 @@ const connection = new Connection("https://api.devnet.solana.com");
       2 * LAMPORTS_PER_SOL
     );
     console.log(`Success! Check out your TX here: 
-            https://explorer.solana.com/tx/${txhash}`);
+            https://explorer.solana.com/tx/${txhash}?cluster=devnet`);
   } catch (error) {
     console.error(`Oops, something went wrong! ${error}`);
   }
